@@ -11,15 +11,20 @@
     },
     "dependencies": {
         "@types/react": "^19.1.4",
+        "class-variance-authority": "^0.7.1",
+        "lucide-react": "^0.511.0",
         "next": "^15.3.2",
         "nextra": "^4.2.17",
         "nextra-theme-docs": "^4.2.17",
         "react": "^19.1.0",
-        "react-dom": "^19.1.0"
+        "react-dom": "^19.1.0",
+        "react-icons": "^5.5.0"
     },
     "devDependencies": {
         "@types/node": "18.11.10",
+        "autoprefixer": "^10.4.21",
         "pagefind": "^1.3.0",
+        "tw-animate-css": "^1.3.0",
         "typescript": "^4.9.3"
     }
 }

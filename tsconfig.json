@@ -30,6 +30,6 @@
     "next-env.d.ts",
     ".next/types/**/*.ts",
     "next.config.mjs"
-  ],
+, "app/auth/register/page.mdx", "mdx-components.js"  ],
   "exclude": ["node_modules"]
 }
