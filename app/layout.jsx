@@ -24,7 +24,7 @@ export default async function RootLayout({ children }) {
       <Head />
       <body>
         <Layout
-          docsRepositoryBase="https://github.com/Shinonn23/Copa-Docs.git"
+          docsRepositoryBase="https://github.com/Shinonn23/Copa-Docs/edit/main/"
           navbar={navbar}
           pageMap={await getPageMap()}
           footer={footer}
